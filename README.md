@@ -9,8 +9,10 @@ All we need is run the code and Enter the message
 
 Then enter the number of times the message has to be sent 
 
-![logo](https://drive.google.com/file/d/1JsbRlGzvOBicsSjSRmhmLSi3o6ULhX0r/view?usp=drive_link)
+![Alt text](https://drive.google.com/file/d/1JsbRlGzvOBicsSjSRmhmLSi3o6ULhX0r/view?usp=drive_link)
 
-Spamming starts just change the program tab  to Whatsapp, Instagram or any social media 
+Spamming starts
+
+Just change the program tab  to Whatsapp, Instagram or any social media 
 Tabs where you want to spam messages.
 

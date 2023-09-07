@@ -22,7 +22,7 @@ public class spammer {
 		int num=scanner.nextInt();
 		StringSelection stringSelection = new StringSelection(Text);
 		Clipboard clipboard = Toolkit.getDefaultToolkit().getSystemClipboard();
-		clipboard.setContents(stringSelection, null);
+		clipboard.setContents(stringSelection, null);
  
 		System.out.println("The spamming will start in 5 seconds");
 		Thread.sleep(5000);

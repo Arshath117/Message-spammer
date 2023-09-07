@@ -37,8 +37,7 @@ public class spammer {
 		robot.keyRelease(KeyEvent.VK_V);
  
 		robot.keyPress(KeyEvent.VK_ENTER);
-		robot.keyRelease(KeyEvent.VK_ENTER);
- 
+		robot.keyRelease(KeyEvent.VK_ENTER);
 		x++;
  
 		}

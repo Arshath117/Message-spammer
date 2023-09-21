@@ -15,4 +15,3 @@ Spamming starts
 
 Just change the program tab  to Whatsapp, Instagram or any social media 
 Tabs where you want to spam messages.
-

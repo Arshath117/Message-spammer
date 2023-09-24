@@ -13,6 +13,5 @@ Then enter the number of times the message has to be sent
 
 Spamming starts
 
-Just change the program tab  to Whatsapp, Instagram or any social media 
-Tabs where you want to spam messages.
+Just shift the program tab  to Whatsapp, Instagram or any social media tabs where you want to spam messages.
 
